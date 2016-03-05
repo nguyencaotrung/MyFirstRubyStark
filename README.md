@@ -1,9 +1,6 @@
 # Pre-work - *stark-ridge-60165.herokuapp.com/articles*
 
-> HINT: Please
-> - include this README.md in your project and fill out the information. 
-> - remove the `README.rdoc` file that Rails generates. 
-> - remove all the HINT blocks in this file.
+
 
 **stark-ridge-60165.herokuapp.com/articles** is a Ruby on Rails blog application.
 
@@ -32,7 +29,7 @@ The following **optional** features are implemented:
 * [ ] User can leave a comment on a post.
 * [ ] User can add "tags" to a post, and filter posts by tag. 
 
-> HINT: if you are unsure how to implement the Search feature, you can Google how to implement a simple search form. For example, one of the sites you will find is [this](http://www.jorgecoca.com/buils-search-form-ruby-rails/)
+
 
 The following **additional** features are implemented:
 
@@ -42,11 +39,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-> HINT: You can put a `walkthrough.gif` file in your project folder, add to git, and use the following syntax to embed it:  
-> `![Video Walkthrough](walkthrough.gif)` 
-> 
 
-![Video Walkthrough](/path/to/your/gif/file)
+
+![Video Walkthrough](https://github.com/nguyencaotrung/MyFirstRubyStark/blob/master/app/views/images/videowalkthrough.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
